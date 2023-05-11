@@ -29,7 +29,7 @@ function Footer() {
               <a
                 href={href}
                 target="_blank"
-                rel="nonferrer"
+                rel="noreferrer"
                 className="footer-icon"
               >
                 <i className={icon}></i>
